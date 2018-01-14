@@ -1,3 +1,8 @@
+/*
+	This is a very preliminary test file for DAC without using binary
+	This is also the file used to generate the array elements for the speaker output  
+*/ 
+
 #include<iostream>
 #include<cmath>
 #include<iomanip>
